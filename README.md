@@ -3,4 +3,4 @@ The aim of this project  is to predict whether the customer will be interested i
 
 ![](/vehicle%20damage%20vs%20target%20variable.png)
 
-<img src="/vehicle%20damage%20vs%20target%20variable.png" width="100">
+<img src="/vehicle%20damage%20vs%20target%20variable.png" width="200"
