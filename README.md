@@ -8,6 +8,7 @@ The aim of this project  is to predict whether the customer will be interested i
 [Overview](#Overview)  
 [AIM](#AIM)  
 [Approach](#Approach)  
+[TechnicalAspect](#TechnicalAspect) 
 
 
 
