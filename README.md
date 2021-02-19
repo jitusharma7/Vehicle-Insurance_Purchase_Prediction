@@ -4,7 +4,7 @@ We'll use a logistic regression classifier and build model.We also use ROCR Curv
 
 
 ## Table of Content
-  * [Overview](#overview)
+  * [Overview](#Overview)
   * [Dataset](#Dataset Description)
   * [Approach](#Approach)
   * [Result](#Result)
