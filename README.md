@@ -35,7 +35,7 @@ The dataset consists of the following attributes:
 ## Approach
 
 The approach for this project is expaline with following steps - 
-1. Step1     __Understanding Dataset with business problem perspective__
+1. ***Step1***     __Understanding Dataset with business problem perspective__
    - What is importance of each attributes and what would be impact on insurance buying decison.
     
 
