@@ -32,6 +32,11 @@ The dataset consists of the following attributes:
 * Response ('Target Column' ) (1: Customer is interested, 0: not interested)
 
 
+## Approach
+
+\*literal asterisks\*
+
+
 
 
 
