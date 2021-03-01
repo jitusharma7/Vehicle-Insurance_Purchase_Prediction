@@ -7,6 +7,7 @@ The aim of this project  is to predict whether the customer will be interested i
   * [Dataset](#Dataset)
   * [Approach](#Approach)
   * [Result](#Result)
+  * [Credit](#Credit)
   
 
 ## Overview
@@ -57,4 +58,14 @@ The approach for this project is expaline with following steps -
    - using ROCR Curve  it shows that - threshold probavility value = 0..65
    
   <img src="ROCR%20Curve.png" width = "350">
+  
+  
+  
+  ## Result
+  - Model Accuracy - 0.87
+  - Vehicle damage and Age are the important features to drive decision whether to buy vehicle insurance or not
+  - 5% of the total observatons - false negative value.
+  
+  ## Credit
 
+ - [dockship](https://https://dockship.io/) - This project ha been done done  this competiiton platoform. 
