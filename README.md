@@ -45,9 +45,14 @@ The approach for this project is expaline with following steps -
    - use heatmap for correlation - 
  
 <img src="/Correlation%20HeatMap.png" width="300">
-   - Exploaratory analysis  - Bases on gender and  vehicle damage relation use bar chart
-   
+   -  use bar chart - Gender vs vehicle damage impact
+  
 <img src="/vehicle%20damage%20vs%20target%20variable.png" width="300">
 
 3. ***Step3***     __Model Building__
+   - LogisticRegression - Machine learning technique used for this classification problem
+   - Split dataset into training and testind dataset
+   - performance in terms of  predicting true negative values  false negative values are crucial  because it is important to know  who will buy the insurane .
+   - F-score of mdoel ishighest when use weighted method
+   - using ROCR Curve  it shows that - threshold probavility value = 0..65
 
