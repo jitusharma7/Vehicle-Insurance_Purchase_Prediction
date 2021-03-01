@@ -36,7 +36,19 @@ The dataset consists of the following attributes:
 
 The approach for this project is expaline with following steps - 
 1. ***Step1***     __Understanding Dataset with business problem perspective__
-   - What is importance of each attributes and what would be impact on insurance buying decison.
+   - What is importance of each attributes and what would be impact on insurance buying decison due to various feature 
+   -
+2.  ***Step2***     __Data Preprocessing__
+   - check NA value in each feature 
+   - drop ID feature due to high cardinality
+   - Apply one hot encoding to rest of categorical feature using drop_first argument to avoid extra column created during one hot encoding
+   - use heatmap for correlation - 
+ 
+3. ***Step3***     __Model Building__
+    - 
+  - 
+   
+   - 
     
 
 
