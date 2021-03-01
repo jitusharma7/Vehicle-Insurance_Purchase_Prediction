@@ -44,16 +44,10 @@ The approach for this project is expaline with following steps -
    - Apply one hot encoding to rest of categorical feature using drop_first argument to avoid extra column created during one hot encoding
    - use heatmap for correlation - 
  
-3. ***Step3***     __Model Building__
-    - 
-  - 
-
+<img src="/Correlation%20HeatMap.png" width="300">
+   - Exploaratory analysis  - Bases on gender and  vehicle damage relation use bar chart
    
-   <img src="/Correlation%20HeatMap.png" width="300">
-   - 
-    
-
-
-
-
 <img src="/vehicle%20damage%20vs%20target%20variable.png" width="300">
+
+3. ***Step3***     __Model Building__
+
