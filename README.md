@@ -55,4 +55,6 @@ The approach for this project is expaline with following steps -
    - performance in terms of  predicting true negative values  false negative values are crucial  because it is important to know  who will buy the insurane .
    - F-score of mdoel ishighest when use weighted method
    - using ROCR Curve  it shows that - threshold probavility value = 0..65
+   
+  <img src="ROCR%20Curve.png" width = "350">
 
