@@ -47,7 +47,9 @@ The approach for this project is expaline with following steps -
 3. ***Step3***     __Model Building__
     - 
   - 
+
    
+   <img src="/Correlation%20HeatMap.png" width="300">
    - 
     
 
