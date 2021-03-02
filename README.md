@@ -35,7 +35,7 @@ The dataset consists of the following attributes:
 
 The approach for this project is expaline with following steps - 
 1. ***Step1***     __Understanding Dataset with business problem perspective__
-   - What is the importance of each attribute and what would impact on insurance buying decision due to various feature 
+  - What is the importance of each attribute and what would impact on insurance buying decision due to various feature 
 
 2.  ***Step2***     __Data Preprocessing__
   2.  ***Step2***     __Data Preprocessing__
