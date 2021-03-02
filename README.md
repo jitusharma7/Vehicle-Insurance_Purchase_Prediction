@@ -1,4 +1,4 @@
-# Vehicle-Insurance_Purchase_Prediction
+# Vehicle_Insurance_Purchase_Prediction
 This project aims to predict whether the customer will be interested in purchasing additional insurance for vehicles.
 
 ## Table of Content
