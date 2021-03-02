@@ -70,4 +70,4 @@ The approach for this project is expaline with following steps -
 
   ## Credit
 
- - [dockship](https://https://dockship.io/) - This project ha been done on  this competiiton platoform. 
+ - [dockship](https://https://dockship.io/) - This project has been done on this competitive platform. 
