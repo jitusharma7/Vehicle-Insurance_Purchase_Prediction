@@ -24,7 +24,7 @@ The dataset consists of the following attributes:
 * Region_Code
 * Previously_Insured (1: already has insurance, 0: doesn't have)
 * Vehicle_Age
-* Vehicle_Damage (1: customer got vehicle damage in past, 0: no past history of damage)
+* Vehicle_Damage (1: customer got vehicle damage in past, 0: no history of damage)
 * Annual_Premium (Amount to be paid annually)
 * PolicySalesChannel
 * Vintage (Number of days customer has been in the company)
@@ -33,7 +33,7 @@ The dataset consists of the following attributes:
 
 ## Approach
 
-The approach for this project is expaline with following steps - 
+The approach for this project is explained with the following steps - 
 1. ***Step1***     __Understanding Dataset with business problem perspective__
   - What is the importance of each attribute and what would impact on insurance buying decision due to various feature 
 
@@ -70,4 +70,5 @@ The approach for this project is expaline with following steps -
 
   ## Credit
 
- - [dockship](https://https://dockship.io/) - This project has been done on this competitive platform. 
+ - [dockship](https://https://dockship.io/) - This project has been done on this competitive platform.
+
